@@ -19,10 +19,10 @@ public class Accesorio {
     private int id;
     private String nombre;
     private TipoAccesorio tipo;
-    private int modPrecision; // Código del CU02
+    private int modPrecision;
     private int modDaño;
     private int modAlcance;
-    private int modCadencia; // HOLA
+    private int modCadencia;
     private int modMovilidad;
     private int modControl;
     private int idArma;
