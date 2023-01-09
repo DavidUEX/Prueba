@@ -20,7 +20,7 @@ public class Accesorio {
     private String nombre;
     private TipoAccesorio tipo;
     private int modPrecision;
-    private int modDaño;
+    private int modDaño; // cambio
     private int modAlcance;
     private int modCadencia;
     private int modMovilidad;
