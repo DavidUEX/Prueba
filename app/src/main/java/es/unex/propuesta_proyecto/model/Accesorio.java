@@ -20,12 +20,13 @@ public class Accesorio {
     private String nombre;
     private TipoAccesorio tipo;
     private int modPrecision;
-    private int modDaño; // cambio
+    private int modDaño;  // DSALDÑSADÑLLDÑSASADÑL
     private int modAlcance;
     private int modCadencia;
     private int modMovilidad;
     private int modControl;
     private int idArma;
+    private int ola;
 
     public Accesorio(String nombre, TipoAccesorio tipo, int modPrecision, int modDaño, int modAlcance, int modCadencia, int modMovilidad, int modControl, int idArma) {
         this.nombre = nombre;
