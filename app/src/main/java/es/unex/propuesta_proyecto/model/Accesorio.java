@@ -22,7 +22,7 @@ public class Accesorio {
     private int modPrecision;
     private int modDaño;  // DSALDÑSADÑLLDÑSASADÑL
     private int modAlcance;
-    private int modCadencia;
+    private int modCadencia; // RAMA TEST 01
     private int modMovilidad;
     private int modControl;
     private int idArma;
