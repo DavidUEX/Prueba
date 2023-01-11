@@ -4,6 +4,8 @@ import androidx.room.Entity;
 import androidx.room.Ignore;
 import androidx.room.PrimaryKey;
 
+/* Esta clase define los atributos y metodos de la tabla de Accesorios en Room */
+/* CU01 */
 @Entity(tableName = "Accesorios")
 public class Accesorio {
 
@@ -20,13 +22,12 @@ public class Accesorio {
     private String nombre;
     private TipoAccesorio tipo;
     private int modPrecision;
-    private int modDaño;  // DSALDÑSADÑLLDÑSASADÑL
+    private int modDaño; // cambio
     private int modAlcance;
-    private int modCadencia; // RAMA TEST 01
+    private int modCadencia;
     private int modMovilidad;
     private int modControl;
     private int idArma;
-    private int ola;
 
     public Accesorio(String nombre, TipoAccesorio tipo, int modPrecision, int modDaño, int modAlcance, int modCadencia, int modMovilidad, int modControl, int idArma) {
         this.nombre = nombre;
