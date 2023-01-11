@@ -15,6 +15,7 @@ public class Accesorio {
         CULATA,
     }
    // CU02
+    /*CASO DE USO 02 */
     @PrimaryKey(autoGenerate = true)
     private int id;
     private String nombre;
