@@ -14,7 +14,7 @@ public class Accesorio {
         MIRA,
         CULATA,
     }
-
+   // CU02
     @PrimaryKey(autoGenerate = true)
     private int id;
     private String nombre;
