@@ -5,7 +5,7 @@ import androidx.room.Ignore;
 import androidx.room.PrimaryKey;
 
 /* Esta clase define los atributos y metodos de la tabla de Accesorios en Room */
-
+/* CU01 */
 @Entity(tableName = "Accesorios")
 public class Accesorio {
 
